@@ -1,0 +1,5 @@
+pgf.texsystem: pdflatex
+font.family: serif
+text.usetex: True
+pgf.rcfonts: False
+errorbar.capsize: 4
